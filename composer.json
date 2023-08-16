@@ -1,0 +1,22 @@
+{
+    "name": "leo980/paginator",
+    "description": "Page link generator",
+    "type": "library",
+    "require-dev": {
+        "phpstan/phpstan": "^1.10",
+        "phpunit/phpunit": "^10.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leo980\\Paginator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leo",
+            "email": "hardrain980@protonmail.com"
+        }
+    ],
+    "require": {}
+}
